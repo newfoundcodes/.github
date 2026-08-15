@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Newfoundcodes documentation
+    url: https://newfoundcodes.com/docs
+    about: Read organization and project documentation before opening an issue.
+  - name: Project proposal
+    url: https://newfoundcodes.com/projects/propose
+    about: Propose a new project through the organization proposal process.
+  - name: Private security report
+    url: https://github.com/newfoundcodes/.github/security/policy
+    about: Review the security policy before reporting a vulnerability privately.
