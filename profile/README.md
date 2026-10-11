@@ -15,11 +15,11 @@ intelligence.
 
 | Project                                                   | Stage      | Purpose                                                                              |
 | --------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
+| [Amaquet](https://newfoundcodes.com/projects/amaquet)     | Active     | Standalone in-memory database that combines typed data planes.                       |
 | [Okatana](https://newfoundcodes.com/projects/okatana)     | Active     | Self-hosted project-management and knowledge-work system.                            |
 | [Queryable](https://newfoundcodes.com/projects/queryable) | Active     | Typed multi-database query workbench for Visual Studio Code IDE.                     |
 | [Helvetium](https://newfoundcodes.com/projects/helvetium) | Active     | Modern web-framework with batteries included.                                        |
 | [Gschwinde](https://newfoundcodes.com/projects/gschwinde) | Incubating | Local-first AI agent extension for Visual Studio Code.                               |
-| [Edgeworth](https://newfoundcodes.com/projects/edgeworth) | Proposed   | Distributed, Docker-based platform for running edge applications.                    |
 | [WhynotDB](https://newfoundcodes.com/projects/whynotdb)   | Proposed   | JSON-native distributed NoSQL database management system.                            |
 
 ### How we work
